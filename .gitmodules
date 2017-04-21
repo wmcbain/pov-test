@@ -1,0 +1,3 @@
+[submodule "pov-mobile-stories-tool"]
+	path = pov-mobile-stories-tool
+	url = git@github.com:povdocs/pov-mobile-stories-tool.git
